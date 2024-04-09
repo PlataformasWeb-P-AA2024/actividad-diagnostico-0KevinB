@@ -2,7 +2,7 @@
 
 
 ### 1. ¿Qué lenguajes de programación a usado?
-He usado: Java, Python, Scala, JavaScript, TypeScript, Spark, C++
+He usado: Java, Python, Scala, JavaScript, TypeScript, Spark, C++, R
 
 ### 2. ¿Qué comandos conoce de GIT?
 Clone, Add, Push, Commit, Config
