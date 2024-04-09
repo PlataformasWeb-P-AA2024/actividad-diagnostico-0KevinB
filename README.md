@@ -8,6 +8,9 @@ He usado: Java, Python, Scala, JavaScript, TypeScript, Spark, C++, R
 Clone, Add, Push, Commit, Config
 
 ### 3. Ejemplifique el comando de Linux: mv
+Indica la ruta en donde nos encontramos 
+![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-0KevinB/assets/92813801/35d3da6c-5ffe-4c90-9993-6767ee3c60da)
+
 ### 4. Ejemplifique el comando de Linux: cp
 ### 5. Ejemplifique el comando de Linux: mkdir
 ### 6. Ejemplifique el comando de Linux: ls
