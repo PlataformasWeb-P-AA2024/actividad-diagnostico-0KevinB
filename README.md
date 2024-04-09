@@ -2,7 +2,11 @@
 
 
 ### 1. ¿Qué lenguajes de programación a usado?
+He usado: Java, Python, Scala, JavaScript, TypeScript, Spark, C++
+
 ### 2. ¿Qué comandos conoce de GIT?
+Clone, Add, Push, Commit, Config
+
 ### 3. Ejemplifique el comando de Linux: mv
 ### 4. Ejemplifique el comando de Linux: cp
 ### 5. Ejemplifique el comando de Linux: mkdir
