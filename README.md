@@ -46,6 +46,7 @@ Mueve un archivo
 
 ### 8. Ejemplifique el comando de Linux: touch
 Sirve para crear archivos y darle cierta configuración como el tiempo, extensión, etc
+
 ![imagen](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-0KevinB/assets/92813801/ebc5086a-4a3a-4818-9fd1-9b2c55b8c42c)
 
 
