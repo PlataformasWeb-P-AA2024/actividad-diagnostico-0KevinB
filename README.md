@@ -41,12 +41,15 @@ Mueve un archivo
 ![imagen](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-0KevinB/assets/92813801/66e21479-a210-4245-9f8b-5e8229192024)
 
 ### 12. Ejemplifique el comando de Linux: cat
-Nos ayuda a mostrar contenido de archivos de texto desde la terminal, sirve principalmente para concatenar
 ![imagen](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-0KevinB/assets/92813801/c048e854-5de4-4181-a9fb-a01c6229ccf0)
 
 
 ### 8. Ejemplifique el comando de Linux: touch
-Para buscar una determinada cadena de caracteres en un archivo
+Sirve para crear archivos y darle cierta configuración como el tiempo, extensión, etc
+![imagen](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-0KevinB/assets/92813801/ebc5086a-4a3a-4818-9fd1-9b2c55b8c42c)
 
 
 ### 9. Ejemplifique el comando de Linux: grep
+Para buscar una determinada cadena de caracteres en un archivo
+![Captura desde 2024-04-12 15-50-38](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-0KevinB/assets/92813801/b6a691b5-7f11-40e1-a6bc-145fe2c60041)
+
