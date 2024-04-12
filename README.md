@@ -43,3 +43,10 @@ Mueve un archivo
 ### 12. Ejemplifique el comando de Linux: cat
 Nos ayuda a mostrar contenido de archivos de texto desde la terminal, sirve principalmente para concatenar
 ![imagen](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-0KevinB/assets/92813801/c048e854-5de4-4181-a9fb-a01c6229ccf0)
+
+
+### 8. Ejemplifique el comando de Linux: touch
+Para buscar una determinada cadena de caracteres en un archivo
+
+
+### 9. Ejemplifique el comando de Linux: grep
