@@ -45,12 +45,12 @@ Mueve un archivo
 
 
 ### 8. Ejemplifique el comando de Linux: touch
-Sirve para crear archivos y darle cierta configuración como el tiempo, extensión, etc
-
+Sirve para crear archivos y darle cierta configuración como el tiempo, extensión, etc 
 ![imagen](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-0KevinB/assets/92813801/ebc5086a-4a3a-4818-9fd1-9b2c55b8c42c)
 
 
 ### 9. Ejemplifique el comando de Linux: grep
-Para buscar una determinada cadena de caracteres en un archivo
+Para buscar una determinada cadena de caracteres en un archivo, busca por coincidencia
+
 ![Captura desde 2024-04-12 15-50-38](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-0KevinB/assets/92813801/b6a691b5-7f11-40e1-a6bc-145fe2c60041)
 
